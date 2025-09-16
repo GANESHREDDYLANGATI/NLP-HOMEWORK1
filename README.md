@@ -6,7 +6,7 @@ Student ID :700776837
 CRN:13312
 
 ## Files
-- `homework.py` — single Python script implementing Q1–Q4, with comments and example output.
+- `nlphomework1.py` — single Python script implementing Q1–Q4, with comments and example output.
 - `README.md` — this file.
 
 ## Setup
