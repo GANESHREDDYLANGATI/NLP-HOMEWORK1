@@ -43,7 +43,7 @@ Then run the script:
 
 
 ```bash
-python3 homework.py
+python3 nlphomework.py
 ```
 
 
